@@ -1,0 +1,26 @@
+.about {
+  background-color: #f1f5fb;
+  padding: 40px 20px;
+  text-align: center;
+  margin: 40px 0;
+  border-top: 2px solid gold;
+  border-bottom: 2px solid gold;
+}
+
+.about h2 {
+  color: #0a46a0;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+.about p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #333;
+}
+
+h5 {
+  background-color: #0a46a0;
+  color: gold;
+  padding: 20px;
+}
